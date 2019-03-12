@@ -5,7 +5,8 @@
 <p align="left">
   <img src="console.png" width="1230">
 </p>
-#### Medodele utilizate:
-`GET`: fiind utilizată atunci când serverului i se cere o resursă.
-`POST`: a fost proiectată pentru a trimite date de intrare către server.
-`PUT`: metoda este folosită pentru a depune documente pe server, fiind inversul metodei GET.
+<p>Metodele utilizate:</p>
+<p>`GET`: fiind utilizată atunci când serverului i se cere o resursă.</p>
+<p>`POST`: a fost proiectată pentru a trimite date de intrare către server.</p>
+<p>`PUT`: metoda este folosită pentru a depune documente pe server, fiind inversul metodei GET.</p>
+<p>`DELETE`: este opusul metodei PUT.</p>
